@@ -6,7 +6,7 @@ La aplicación fue desarrollada con el framework web Django y una base de datos 
 *   MySQL
 
 ## Instalación ##
-*   Primero crer una base de datos MySQL llamada "backend_test_grupodot" 
+*   Primero crear una base de datos MySQL llamada "backend_test_grupodot" 
 *   Para conectar la aplicación Django con la base de datos MySQL, ir al archivo settings.py, que está en el directorio backend_test_grupodot/backend_test_grupodot y en el diccionario DATABASES, configurar las credenciales, host etc.
 *   Crear un ambiente virtual para las dependencias de Django [Link documentación oficial](https://docs.djangoproject.com/en/3.1/intro/contributing/#getting-a-copy-of-django-s-development-version "djangoenviroment")
 *   Activar el ambiente virtual e ir a la carpeta backend_test_grupodot e instalar las dependencias de Django con el siguiente comando usando el archivo requirements.txt que tiene las dependencias
